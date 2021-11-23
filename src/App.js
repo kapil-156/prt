@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+// jst for checking if the browser supports service workers
 function App() {
   return (
     <div className="App">
